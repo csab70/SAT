@@ -1,0 +1,380 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+
+#EXTINF:-1 tvg-chno="4040" tvg-logo="http://csab70.ddnsfree.com/picon/m1hd.png" tvg-id="1:0:1:FC8:D:1:E080000:0:0:0:" tvg-name="M1 HD",M1 HD
+#EXTVLCOPT:program=4040
+http://csab70.ddnsfree.com:8001/1:0:1:FC8:D:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30502" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_19_7726_2C1_600_E080000_0_0_0.png" tvg-id="1:0:19:7726:2C1:600:E080000:0:0:0:" tvg-name="M2 HD",M2 HD
+#EXTVLCOPT:program=30502
+http://csab70.ddnsfree.com:8001/1:0:19:7726:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31417" tvg-logo="http://csab70.ddnsfree.com/picon/m4hd.png" tvg-id="1:0:19:7AB9:2CC:600:E080000:0:0:0:" tvg-name="M4 HD",M4 HD
+#EXTVLCOPT:program=31417
+http://csab70.ddnsfree.com:8001/1:0:19:7AB9:2CC:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30522" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_19_773A_2C1_600_E080000_0_0_0.png" tvg-id="1:0:19:773A:2C1:600:E080000:0:0:0:" tvg-name="M5 HD",M5 HD
+#EXTVLCOPT:program=30522
+http://csab70.ddnsfree.com:8001/1:0:19:773A:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31416" tvg-logo="http://csab70.ddnsfree.com/picon/duna.png" tvg-id="1:0:19:7AB8:2CC:600:E080000:0:0:0:" tvg-name="Duna HD",Duna HD
+#EXTVLCOPT:program=31416
+http://csab70.ddnsfree.com:8001/1:0:19:7AB8:2CC:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30216" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7608_2BE_600_E080000_0_0_0.png" tvg-id="1:0:1:7608:2BE:600:E080000:0:0:0:" tvg-name="Duna World / M4 Sport+",Duna World / M4 Sport+
+#EXTVLCOPT:program=30216
+http://csab70.ddnsfree.com:8001/1:0:1:7608:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30504" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_19_7728_2C1_600_E080000_0_0_0.png" tvg-id="1:0:19:7728:2C1:600:E080000:0:0:0:" tvg-name="RTL HD",RTL HD
+#EXTVLCOPT:program=30504
+http://csab70.ddnsfree.com:8001/1:0:19:7728:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30511" tvg-logo="http://csab70.ddnsfree.com/picon/tv2hd.png" tvg-id="1:0:19:772F:2C1:600:E080000:0:0:0:" tvg-name="TV2 HD",TV2 HD
+#EXTVLCOPT:program=30511
+http://csab70.ddnsfree.com:8001/1:0:19:772F:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30211" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7603_2BE_600_E080000_0_0_0.png" tvg-id="1:0:1:7603:2BE:600:E080000:0:0:0:" tvg-name="ATV",ATV
+#EXTVLCOPT:program=30211
+http://csab70.ddnsfree.com:8001/1:0:1:7603:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30207" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:1:75FF:2BE:600:E080000:0:0:0:" tvg-name="ATV Spirit",ATV Spirit
+#EXTVLCOPT:program=30207
+http://csab70.ddnsfree.com:8001/1:0:1:75FF:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30102" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7596_2BD_600_E080000_0_0_0.png" tvg-id="1:0:1:7596:2BD:600:E080000:0:0:0:" tvg-name="HirTV",HirTV
+#EXTVLCOPT:program=30102
+http://csab70.ddnsfree.com:8001/1:0:1:7596:2BD:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2912" tvg-logo="http://csab70.ddnsfree.com/picon/aljazeeraenglish.png" tvg-id="1:0:1:B60:14:46:E080000:0:0:0:" tvg-name="Al Jazeera English",Al Jazeera English
+#EXTVLCOPT:program=2912
+http://csab70.ddnsfree.com:8001/1:0:1:B60:14:46:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31407" tvg-logo="http://csab70.ddnsfree.com/picon/bloomberg.png" tvg-id="1:0:1:7AAF:2CC:600:E080000:0:0:0:" tvg-name="Bloomberg",Bloomberg
+#EXTVLCOPT:program=31407
+http://csab70.ddnsfree.com:8001/1:0:1:7AAF:2CC:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="519" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_207_14_46_E080000_0_0_0.png" tvg-id="1:0:19:207:14:46:E080000:0:0:0:" tvg-name="CGTN HD",CGTN HD
+#EXTVLCOPT:program=519
+http://csab70.ddnsfree.com:8001/1:0:19:207:14:46:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31406" tvg-logo="http://csab70.ddnsfree.com/picon/cnbceurope.png" tvg-id="1:0:16:7AAE:2CC:600:E080000:0:0:0:" tvg-name="CNBC Europe",CNBC Europe
+#EXTVLCOPT:program=31406
+http://csab70.ddnsfree.com:8001/1:0:16:7AAE:2CC:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31203" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_79E3_2C8_600_E080000_0_0_0.png" tvg-id="1:0:1:79E3:2C8:600:E080000:0:0:0:" tvg-name="CNN",CNN
+#EXTVLCOPT:program=31203
+http://csab70.ddnsfree.com:8001/1:0:1:79E3:2C8:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="3837" tvg-logo="http://csab70.ddnsfree.com/picon/skynews.png" tvg-id="1:0:1:EFD:14:46:E080000:0:0:0:" tvg-name="Sky News",Sky News
+#EXTVLCOPT:program=3837
+http://csab70.ddnsfree.com:8001/1:0:1:EFD:14:46:E080000:0:0:0:
+
+
+#EXTINF:-1 tvg-chno="31107" tvg-logo="http://csab70.ddnsfree.com/picon/amcce.png" tvg-id="1:0:1:7983:2C7:600:E080000:0:0:0:" tvg-name="AMC CE",AMC CE
+#EXTVLCOPT:program=31107
+http://csab70.ddnsfree.com:8001/1:0:1:7983:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31105" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7981_2C7_600_E080000_0_0_0.png" tvg-id="1:0:1:7981:2C7:600:E080000:0:0:0:" tvg-name="AMC HU",AMC HU
+#EXTVLCOPT:program=31105
+http://csab70.ddnsfree.com:8001/1:0:1:7981:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30709" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_77F5_2C3_600_E080000_0_0_0.png" tvg-id="1:0:1:77F5:2C3:600:E080000:0:0:0:" tvg-name="Cinemax",Cinemax
+#EXTVLCOPT:program=30709
+http://csab70.ddnsfree.com:8001/1:0:1:77F5:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30914" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_78C2_2C5_600_E080000_0_0_0.png" tvg-id="1:0:1:78C2:2C5:600:E080000:0:0:0:" tvg-name="Cinemax2",Cinemax2
+#EXTVLCOPT:program=30914
+http://csab70.ddnsfree.com:8001/1:0:1:78C2:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30227" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7613_2BE_600_E080000_0_0_0.png" tvg-id="1:0:1:7613:2BE:600:E080000:0:0:0:" tvg-name="Cool",Cool
+#EXTVLCOPT:program=30227
+http://csab70.ddnsfree.com:8001/1:0:1:7613:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31319" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:19:7A57:2CB:600:E080000:0:0:0:" tvg-name="Direct One HD",Direct One HD
+#EXTVLCOPT:program=31319
+http://csab70.ddnsfree.com:8001/1:0:19:7A57:2CB:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30703" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_77EF_2C3_600_E080000_0_0_0.png" tvg-id="1:0:1:77EF:2C3:600:E080000:0:0:0:" tvg-name="Disney Channel",Disney Channel
+#EXTVLCOPT:program=30703
+http://csab70.ddnsfree.com:8001/1:0:1:77EF:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2013" tvg-logo="http://csab70.ddnsfree.com/picon/epicdramahd.png" tvg-id="1:0:11:7DD:AF2:BB:E080000:0:0:0:" tvg-name="Epic Drama HD",Epic Drama HD
+#EXTVLCOPT:program=2013
+http://csab70.ddnsfree.com:8001/1:0:11:7DD:AF2:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31311" tvg-logo="http://csab70.ddnsfree.com/picon/filmplus.png" tvg-id="1:0:19:7A4F:2CB:600:E080000:0:0:0:" tvg-name="Film+ HD",Film+ HD
+#EXTVLCOPT:program=31311
+http://csab70.ddnsfree.com:8001/1:0:19:7A4F:2CB:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="3310" tvg-logo="http://csab70.ddnsfree.com/picon/film4.png" tvg-id="1:0:1:CEE:3:1:E080000:0:0:0:" tvg-name="Film 4",Film 4
+#EXTVLCOPT:program=3310
+http://csab70.ddnsfree.com:8001/1:0:1:CEE:3:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30206" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_75FE_2BE_600_E080000_0_0_0.png" tvg-id="1:0:1:75FE:2BE:600:E080000:0:0:0:" tvg-name="Film Cafe",Film Cafe
+#EXTVLCOPT:program=30206
+http://csab70.ddnsfree.com:8001/1:0:1:75FE:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30415" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_76CF_2C0_600_E080000_0_0_0.png" tvg-id="1:0:1:76CF:2C0:600:E080000:0:0:0:" tvg-name="Film Mania",Film Mania
+#EXTVLCOPT:program=30415
+http://csab70.ddnsfree.com:8001/1:0:1:76CF:2C0:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31413" tvg-logo="http://csab70.ddnsfree.com/picon/filmboxbasic.png" tvg-id="1:0:16:7AB5:2CC:600:E080000:0:0:0:" tvg-name="Filmbox Basic",Filmbox Basic
+#EXTVLCOPT:program=31413
+http://csab70.ddnsfree.com:8001/1:0:16:7AB5:2CC:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30714" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_77FA_2C3_600_E080000_0_0_0.png" tvg-id="1:0:1:77FA:2C3:600:E080000:0:0:0:" tvg-name="Filmbox (basic) RO",Filmbox (basic) RO
+#EXTVLCOPT:program=30714
+http://csab70.ddnsfree.com:8001/1:0:1:77FA:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30523" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_19_773B_2C1_600_E080000_0_0_0.png" tvg-id="1:0:19:773B:2C1:600:E080000:0:0:0:" tvg-name="FilmBox Extra HD",FilmBox Extra HD
+#EXTVLCOPT:program=30523
+http://csab70.ddnsfree.com:8001/1:0:19:773B:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30201" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_75F9_2BE_600_E080000_0_0_0.png" tvg-id="1:0:1:75F9:2BE:600:E080000:0:0:0:" tvg-name="Filmbox Family",Filmbox Family
+#EXTVLCOPT:program=30201
+http://csab70.ddnsfree.com:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30217" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7609_2BE_600_E080000_0_0_0.png" tvg-id="1:0:1:7609:2BE:600:E080000:0:0:0:" tvg-name="FilmBox Stars INT",FilmBox Stars INT
+#EXTVLCOPT:program=30217
+http://csab70.ddnsfree.com:8001/1:0:1:7609:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30507" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_16_772B_2C1_600_E080000_0_0_0.png" tvg-id="1:0:16:772B:2C1:600:E080000:0:0:0:" tvg-name="Filmbox Premium",Filmbox Premium
+#EXTVLCOPT:program=30507
+http://csab70.ddnsfree.com:8001/1:0:16:772B:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31301" tvg-logo="http://csab70.ddnsfree.com/picon/filmboxpremium.png" tvg-id="1:0:19:7A45:2CB:600:E080000:0:0:0:" tvg-name="Filmbox Premium HD",Filmbox Premium HD
+#EXTVLCOPT:program=31301
+http://csab70.ddnsfree.com:8001/1:0:19:7A45:2CB:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2710" tvg-logo="http://csab70.ddnsfree.com/picon/galaxy4.png" tvg-id="1:0:1:A96:3:1:E080000:0:0:0:" tvg-name="Galaxy4",Galaxy4
+#EXTVLCOPT:program=2710
+http://csab70.ddnsfree.com:8001/1:0:1:A96:3:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30519" tvg-logo="http://csab70.ddnsfree.com/picon/hbohd.png" tvg-id="1:0:19:7737:2C1:600:E080000:0:0:0:" tvg-name="HBO HD",HBO HD
+#EXTVLCOPT:program=30519
+http://csab70.ddnsfree.com:8001/1:0:19:7737:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30705" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_77F1_2C3_600_E080000_0_0_0.png" tvg-id="1:0:1:77F1:2C3:600:E080000:0:0:0:" tvg-name="HBO2",HBO2
+#EXTVLCOPT:program=30705
+http://csab70.ddnsfree.com:8001/1:0:1:77F1:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1220" tvg-logo="http://csab70.ddnsfree.com/picon/hbo3hu.png" tvg-id="1:0:1:4C4:4:1:E080000:0:0:0:" tvg-name="HBO 3 HU",HBO 3 HU
+#EXTVLCOPT:program=1220
+http://csab70.ddnsfree.com:8001/1:0:1:4C4:4:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30122" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_75AA_2BD_600_E080000_0_0_0.png" tvg-id="1:0:1:75AA:2BD:600:E080000:0:0:0:" tvg-name="Jocky TV",Jocky TV
+#EXTVLCOPT:program=30122
+http://csab70.ddnsfree.com:8001/1:0:1:75AA:2BD:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30707" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_77F3_2C3_600_E080000_0_0_0.png" tvg-id="1:0:1:77F3:2C3:600:E080000:0:0:0:" tvg-name="Life TV",Life TV
+#EXTVLCOPT:program=30707
+http://csab70.ddnsfree.com:8001/1:0:1:77F3:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="3270" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:1:CC6:4:1:E080000:0:0:0:" tvg-name="Magyar Mozi TV",Magyar Mozi TV
+#EXTVLCOPT:program=3270
+http://csab70.ddnsfree.com:8001/1:0:1:CC6:4:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1031" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:1:407:3:1:E080000:0:0:0:" tvg-name="Max4",Max4
+#EXTVLCOPT:program=1031
+http://csab70.ddnsfree.com:8001/1:0:1:407:3:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31110" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7986_2C7_600_E080000_0_0_0.png" tvg-id="1:0:1:7986:2C7:600:E080000:0:0:0:" tvg-name="Mozi+",Mozi+
+#EXTVLCOPT:program=31110
+http://csab70.ddnsfree.com:8001/1:0:1:7986:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30902" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_78B6_2C5_600_E080000_0_0_0.png" tvg-id="1:0:1:78B6:2C5:600:E080000:0:0:0:" tvg-name="Moziklub",Moziklub
+#EXTVLCOPT:program=30902
+http://csab70.ddnsfree.com:8001/1:0:1:78B6:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30129" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_75B1_2BD_600_E080000_0_0_0.png" tvg-id="1:0:1:75B1:2BD:600:E080000:0:0:0:" tvg-name="Moziverzum",Moziverzum
+#EXTVLCOPT:program=30129
+http://csab70.ddnsfree.com:8001/1:0:1:75B1:2BD:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="501" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_1F5_1B_2C0_E080000_0_0_0.png" tvg-id="1:0:1:1F5:1B:2C0:E080000:0:0:0:" tvg-name="Paramount Channel Hungary",Paramount Channel Hungary
+#EXTVLCOPT:program=501
+http://csab70.ddnsfree.com:8001/1:0:1:1F5:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30912" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_78C0_2C5_600_E080000_0_0_0.png" tvg-id="1:0:1:78C0:2C5:600:E080000:0:0:0:" tvg-name="Prime",Prime
+#EXTVLCOPT:program=30912
+http://csab70.ddnsfree.com:8001/1:0:1:78C0:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1170" tvg-logo="http://csab70.ddnsfree.com/picon/procinema.png" tvg-id="1:0:1:492:7:1:E080000:0:0:0:" tvg-name="PRO CINEMA",PRO CINEMA
+#EXTVLCOPT:program=1170
+http://csab70.ddnsfree.com:8001/1:0:1:492:7:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31219" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_79F3_2C8_600_E080000_0_0_0.png" tvg-id="1:0:1:79F3:2C8:600:E080000:0:0:0:" tvg-name="RTL GOLD",RTL GOLD
+#EXTVLCOPT:program=31219
+http://csab70.ddnsfree.com:8001/1:0:1:79F3:2C8:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30515" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:19:7733:2C1:600:E080000:0:0:0:" tvg-name="RTL KETTO HD",RTL KETTO HD
+#EXTVLCOPT:program=30515
+http://csab70.ddnsfree.com:8001/1:0:19:7733:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30517" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:19:7735:2C1:600:E080000:0:0:0:" tvg-name="RTL HAROM HD",RTL HAROM HD
+#EXTVLCOPT:program=30517
+http://csab70.ddnsfree.com:8001/1:0:19:7735:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31214" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_79EE_2C8_600_E080000_0_0_0.png" tvg-id="1:0:1:79EE:2C8:600:E080000:0:0:0:" tvg-name="Sorozat+",Sorozat+
+#EXTVLCOPT:program=31214
+http://csab70.ddnsfree.com:8001/1:0:1:79EE:2C8:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30901" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_78B5_2C5_600_E080000_0_0_0.png" tvg-id="1:0:1:78B5:2C5:600:E080000:0:0:0:" tvg-name="Sorozatklub",Sorozatklub
+#EXTVLCOPT:program=30901
+http://csab70.ddnsfree.com:8001/1:0:1:78B5:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30708" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_77F4_2C3_600_E080000_0_0_0.png" tvg-id="1:0:1:77F4:2C3:600:E080000:0:0:0:" tvg-name="STORY 4",STORY 4
+#EXTVLCOPT:program=30708
+http://csab70.ddnsfree.com:8001/1:0:1:77F4:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30907" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_78BB_2C5_600_E080000_0_0_0.png" tvg-id="1:0:1:78BB:2C5:600:E080000:0:0:0:" tvg-name="SuperTV2",SuperTV2
+#EXTVLCOPT:program=30907
+http://csab70.ddnsfree.com:8001/1:0:1:78BB:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31117" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_798D_2C7_600_E080000_0_0_0.png" tvg-id="1:0:1:798D:2C7:600:E080000:0:0:0:" tvg-name="TV2 Comedy",TV2 Comedy
+#EXTVLCOPT:program=31117
+http://csab70.ddnsfree.com:8001/1:0:1:798D:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30906" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_78BA_2C5_600_E080000_0_0_0.png" tvg-id="1:0:1:78BA:2C5:600:E080000:0:0:0:" tvg-name="TV2Klub",TV2Klub
+#EXTVLCOPT:program=30906
+http://csab70.ddnsfree.com:8001/1:0:1:78BA:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31113" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7989_2C7_600_E080000_0_0_0.png" tvg-id="1:0:1:7989:2C7:600:E080000:0:0:0:" tvg-name="TV4",TV4
+#EXTVLCOPT:program=31113
+http://csab70.ddnsfree.com:8001/1:0:1:7989:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30913" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:1:78C1:2C5:600:E080000:0:0:0:" tvg-name="Viasat 2",Viasat 2
+#EXTVLCOPT:program=30913
+http://csab70.ddnsfree.com:8001/1:0:1:78C1:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="11017" tvg-logo="http://csab70.ddnsfree.com/picon/viasat3.png" tvg-id="1:0:1:2B09:B:1111:E080000:0:0:0:" tvg-name="VIASAT 3",VIASAT 3
+#EXTVLCOPT:program=11017
+http://csab70.ddnsfree.com:8001/1:0:1:2B09:B:1111:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="11018" tvg-logo="http://csab70.ddnsfree.com/picon/viasat6.png" tvg-id="1:0:1:2B0A:B:1111:E080000:0:0:0:" tvg-name="VIASAT 6",VIASAT 6
+#EXTVLCOPT:program=11018
+http://csab70.ddnsfree.com:8001/1:0:1:2B0A:B:1111:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="6022" tvg-logo="http://csab70.ddnsfree.com/picon/viasathd.png" tvg-id="1:0:19:1786:AF6:BB:E080000:0:0:0:" tvg-name="Viasat HD",Viasat HD
+#EXTVLCOPT:program=6022
+http://csab70.ddnsfree.com:8001/1:0:19:1786:AF6:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30918" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:1:78C6:2C5:600:E080000:0:0:0:" tvg-name="Viasat Film",Viasat Film
+#EXTVLCOPT:program=30918
+http://csab70.ddnsfree.com:8001/1:0:1:78C6:2C5:600:E080000:0:0:0:
+
+
+#EXTINF:-1 tvg-chno="123" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:1:7B:C:A:E080000:0:0:0:" tvg-name="4K-HERiTAGE",4K-HERiTAGE
+#EXTVLCOPT:program=123
+http://csab70.ddnsfree.com:8001/1:0:1:7B:C:A:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1060" tvg-logo="http://csab70.ddnsfree.com/picon/animalplanet.png" tvg-id="1:0:1:424:3:1:E080000:0:0:0:" tvg-name="Animal Planet",Animal Planet
+#EXTVLCOPT:program=1060
+http://csab70.ddnsfree.com:8001/1:0:1:424:3:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2605" tvg-logo="http://csab70.ddnsfree.com/picon/animalplanethdhungarian.png" tvg-id="1:0:1:A2D:2:5E:E080000:0:0:0:" tvg-name="Animal Planet HD Hungarian",Animal Planet HD Hungarian
+#EXTVLCOPT:program=2605
+http://csab70.ddnsfree.com:8001/1:0:1:A2D:2:5E:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30409" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_76C9_2C0_600_E080000_0_0_0.png" tvg-id="1:0:1:76C9:2C0:600:E080000:0:0:0:" tvg-name="BBC Earth",BBC Earth
+#EXTVLCOPT:program=30409
+http://csab70.ddnsfree.com:8001/1:0:1:76C9:2C0:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="3033" tvg-logo="http://csab70.ddnsfree.com/picon/crimeandinvestigation.png" tvg-id="1:0:1:BD9:AF3:BB:E080000:0:0:0:" tvg-name="Crime and Investigation",Crime and Investigation
+#EXTVLCOPT:program=3033
+http://csab70.ddnsfree.com:8001/1:0:1:BD9:AF3:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2029" tvg-logo="http://csab70.ddnsfree.com/picon/cgtndocumentary.png" tvg-id="1:0:19:7ED:14:46:E080000:0:0:0:" tvg-name="CGTN Documentary HD",CGTN Documentary HD
+#EXTVLCOPT:program=2029
+http://csab70.ddnsfree.com:8001/1:0:19:7ED:14:46:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30736" tvg-logo="http://csab70.ddnsfree.com/picon/crimeandinvestigation.png" tvg-id="1:0:1:7810:2C3:600:E080000:0:0:0:" tvg-name="Crime and Investigation",Crime and Investigation
+#EXTVLCOPT:program=30736
+http://csab70.ddnsfree.com:8001/1:0:1:7810:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="4100" tvg-logo="http://csab70.ddnsfree.com/picon/discoveryhu.png" tvg-id="1:0:1:1004:5:1:E080000:0:0:0:" tvg-name="Discovery HU",Discovery HU
+#EXTVLCOPT:program=4100
+http://csab70.ddnsfree.com:8001/1:0:1:1004:5:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31320" tvg-logo="http://csab70.ddnsfree.com/picon/docubox.png" tvg-id="1:0:1:7A58:2CB:600:E080000:0:0:0:" tvg-name="DOCUBOX",DOCUBOX
+#EXTVLCOPT:program=31320
+http://csab70.ddnsfree.com:8001/1:0:1:7A58:2CB:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31403" tvg-logo="http://csab70.ddnsfree.com/picon/historyhd.png" tvg-id="1:0:19:7AAB:2CC:600:E080000:0:0:0:" tvg-name="History HD",History HD
+#EXTVLCOPT:program=31403
+http://csab70.ddnsfree.com:8001/1:0:19:7AAB:2CC:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2580" tvg-logo="http://csab70.ddnsfree.com/picon/idinvestigationdiscovery.png" tvg-id="1:0:1:A14:5:1:E080000:0:0:0:" tvg-name="ID Investigation Discovery",ID Investigation Discovery
+#EXTVLCOPT:program=2580
+http://csab70.ddnsfree.com:8001/1:0:1:A14:5:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31015" tvg-logo="http://csab70.ddnsfree.com/picon/lovenaturehd.png" tvg-id="1:0:19:7927:2C6:600:E080000:0:0:0:" tvg-name="Love Nature HD",Love Nature HD
+#EXTVLCOPT:program=31015
+http://csab70.ddnsfree.com:8001/1:0:19:7927:2C6:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="104" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:1F:68:C:A:E080000:0:0:0:" tvg-name="NASA",NASA
+#EXTVLCOPT:program=104
+http://csab70.ddnsfree.com:8001/1:0:1F:68:C:A:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30704" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_77F0_2C3_600_E080000_0_0_0.png" tvg-id="1:0:19:77F0:2C3:600:E080000:0:0:0:" tvg-name="National Geographic HD",National Geographic HD
+#EXTVLCOPT:program=30704
+http://csab70.ddnsfree.com:8001/1:0:19:77F0:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30711" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_77F7_2C3_600_E080000_0_0_0.png" tvg-id="1:0:1:77F7:2C3:600:E080000:0:0:0:" tvg-name="Nat Geo Wild",Nat Geo Wild
+#EXTVLCOPT:program=30711
+http://csab70.ddnsfree.com:8001/1:0:1:77F7:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2690" tvg-logo="http://csab70.ddnsfree.com/picon/ozonetv.png" tvg-id="1:0:1:A82:4:1:E080000:0:0:0:" tvg-name="Ozone TV",Ozone TV
+#EXTVLCOPT:program=2690
+http://csab70.ddnsfree.com:8001/1:0:1:A82:4:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30712" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_77F8_2C3_600_E080000_0_0_0.png" tvg-id="1:0:1:77F8:2C3:600:E080000:0:0:0:" tvg-name="Spektrum",Spektrum
+#EXTVLCOPT:program=30712
+http://csab70.ddnsfree.com:8001/1:0:1:77F8:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31211" tvg-logo="http://csab70.ddnsfree.com/picon/spektrumhome.png" tvg-id="1:0:1:79EB:2C8:600:E080000:0:0:0:" tvg-name="Spektrum Home",Spektrum Home
+#EXTVLCOPT:program=31211
+http://csab70.ddnsfree.com:8001/1:0:1:79EB:2C8:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31007" tvg-logo="http://csab70.ddnsfree.com/picon/travelxp.png" tvg-id="1:0:19:791F:2C6:600:E080000:0:0:0:" tvg-name="Travel XP HD",Travel XP HD
+#EXTVLCOPT:program=31007
+http://csab70.ddnsfree.com:8001/1:0:19:791F:2C6:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31108" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7984_2C7_600_E080000_0_0_0.png" tvg-id="1:0:19:7984:2C7:600:E080000:0:0:0:" tvg-name="Viasat Explore HD",Viasat Explore HD
+#EXTVLCOPT:program=31108
+http://csab70.ddnsfree.com:8001/1:0:19:7984:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31106" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7982_2C7_600_E080000_0_0_0.png" tvg-id="1:0:1:7982:2C7:600:E080000:0:0:0:" tvg-name="Viasat History",Viasat History
+#EXTVLCOPT:program=31106
+http://csab70.ddnsfree.com:8001/1:0:1:7982:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30204" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_75FC_2BE_600_E080000_0_0_0.png" tvg-id="1:0:1:75FC:2BE:600:E080000:0:0:0:" tvg-name="Viasat Nature",Viasat Nature
+#EXTVLCOPT:program=30204
+http://csab70.ddnsfree.com:8001/1:0:1:75FC:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="6012" tvg-logo="http://csab70.ddnsfree.com/picon/viasatnaturehd.png" tvg-id="1:0:1:177C:AF6:BB:E080000:0:0:0:" tvg-name="Viasat Nature HD",Viasat Nature HD
+#EXTVLCOPT:program=6012
+http://csab70.ddnsfree.com:8001/1:0:1:177C:AF6:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31321" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:1:7A59:2CB:600:E080000:0:0:0:" tvg-name="(18+) Eroxxx",(18+) Eroxxx
+#EXTVLCOPT:program=31321
+http://csab70.ddnsfree.com:8001/1:0:1:7A59:2CB:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30920" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_78C8_2C5_600_E080000_0_0_0.png" tvg-id="1:0:1:78C8:2C5:600:E080000:0:0:0:" tvg-name="Hustler",Hustler
+#EXTVLCOPT:program=30920
+http://csab70.ddnsfree.com:8001/1:0:1:78C8:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30909" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_78BD_2C5_600_E080000_0_0_0.png" tvg-id="1:0:1:78BD:2C5:600:E080000:0:0:0:" tvg-name="Private TV",Private TV
+#EXTVLCOPT:program=30909
+http://csab70.ddnsfree.com:8001/1:0:1:78BD:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1033" tvg-logo="http://csab70.ddnsfree.com/picon/superone.png" tvg-id="1:0:1:409:2:1:E080000:0:0:0:" tvg-name="SuperOne",SuperOne
+#EXTVLCOPT:program=1033
+http://csab70.ddnsfree.com:8001/1:0:1:409:2:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30309" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7665_2BF_600_E080000_0_0_0.png" tvg-id="1:0:19:7665:2BF:600:E080000:0:0:0:" tvg-name="Vixen HD",Vixen HD
+#EXTVLCOPT:program=30309
+http://csab70.ddnsfree.com:8001/1:0:19:7665:2BF:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="7973" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:16:1F25:21:46:E080000:0:0:0:" tvg-name="ID Investigation Discovery (N)",ID Investigation Discovery (N)
+#EXTVLCOPT:program=7973
+http://csab70.ddnsfree.com:8001/1:0:16:1F25:21:46:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="7311" tvg-logo="http://csab70.ddnsfree.com/picon/idinvestigationdiscoveryd.png" tvg-id="1:0:16:1C8F:A:46:E080000:0:0:0:" tvg-name="ID Investigation Discovery (D)",ID Investigation Discovery (D)
+#EXTVLCOPT:program=7311
+http://csab70.ddnsfree.com:8001/1:0:16:1C8F:A:46:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="7211" tvg-logo="http://csab70.ddnsfree.com/picon/idinvestigationdiscoverys.png" tvg-id="1:0:16:1C2B:21:46:E080000:0:0:0:" tvg-name="ID Investigation Discovery (S)",ID Investigation Discovery (S)
+#EXTVLCOPT:program=7211
+http://csab70.ddnsfree.com:8001/1:0:16:1C2B:21:46:E080000:0:0:0:
+
+
+#EXTINF:-1 tvg-chno="31417" tvg-logo="http://csab70.ddnsfree.com/picon/m4hd.png" tvg-id="1:0:19:7AB9:2CC:600:E080000:0:0:0:" tvg-name="M4 HD",M4 HD
+#EXTVLCOPT:program=31417
+http://csab70.ddnsfree.com:8001/1:0:19:7AB9:2CC:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30216" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7608_2BE_600_E080000_0_0_0.png" tvg-id="1:0:1:7608:2BE:600:E080000:0:0:0:" tvg-name="Duna World / M4 Sport+",Duna World / M4 Sport+
+#EXTVLCOPT:program=30216
+http://csab70.ddnsfree.com:8001/1:0:1:7608:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30113" tvg-logo="http://csab70.ddnsfree.com/picon/arena4.png" tvg-id="1:0:19:75A1:2BD:600:E080000:0:0:0:" tvg-name="Arena4 HD",Arena4 HD
+#EXTVLCOPT:program=30113
+http://csab70.ddnsfree.com:8001/1:0:19:75A1:2BD:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2015" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_19_7DF_AF2_BB_E080000_0_0_0.png" tvg-id="1:0:19:7DF:AF2:BB:E080000:0:0:0:" tvg-name="Eurosport 1 HD",Eurosport 1 HD
+#EXTVLCOPT:program=2015
+http://csab70.ddnsfree.com:8001/1:0:19:7DF:AF2:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2016" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_19_7E0_AF2_BB_E080000_0_0_0.png" tvg-id="1:0:19:7E0:AF2:BB:E080000:0:0:0:" tvg-name="Eurosport 2 HD",Eurosport 2 HD
+#EXTVLCOPT:program=2016
+http://csab70.ddnsfree.com:8001/1:0:19:7E0:AF2:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1430" tvg-logo="http://csab70.ddnsfree.com/picon/fishingandhunting.png" tvg-id="1:0:1:596:C:1:E080000:0:0:0:" tvg-name="Fishing&Hunting",Fishing&Hunting
+#EXTVLCOPT:program=1430
+http://csab70.ddnsfree.com:8001/1:0:1:596:C:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1480" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:19:5C8:4:1:E080000:0:0:0:" tvg-name="MATCH4 HD",MATCH4 HD
+#EXTVLCOPT:program=1480
+http://csab70.ddnsfree.com:8001/1:0:19:5C8:4:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30224" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7610_2BE_600_E080000_0_0_0.png" tvg-id="1:0:1:7610:2BE:600:E080000:0:0:0:" tvg-name="Spiler TV",Spiler TV
+#EXTVLCOPT:program=30224
+http://csab70.ddnsfree.com:8001/1:0:1:7610:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30128" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_75B0_2BD_600_E080000_0_0_0.png" tvg-id="1:0:1:75B0:2BD:600:E080000:0:0:0:" tvg-name="Spiler2",Spiler2
+#EXTVLCOPT:program=30128
+http://csab70.ddnsfree.com:8001/1:0:1:75B0:2BD:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30503" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_19_7727_2C1_600_E080000_0_0_0.png" tvg-id="1:0:19:7727:2C1:600:E080000:0:0:0:" tvg-name="Sport 1 HD",Sport 1 HD
+#EXTVLCOPT:program=30503
+http://csab70.ddnsfree.com:8001/1:0:19:7727:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1490" tvg-logo="http://csab70.ddnsfree.com/picon/sport2hd.png" tvg-id="1:0:19:5D2:4:1:E080000:0:0:0:" tvg-name="Sport2 HD",Sport2 HD
+#EXTVLCOPT:program=1490
+http://csab70.ddnsfree.com:8001/1:0:19:5D2:4:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31402" tvg-logo="http://csab70.ddnsfree.com/picon/arenasport1.png" tvg-id="1:0:16:7AAA:2CC:600:E080000:0:0:0:" tvg-name="Arena Sport 1",Arena Sport 1
+#EXTVLCOPT:program=31402
+http://csab70.ddnsfree.com:8001/1:0:16:7AAA:2CC:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30427" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_76DB_2C0_600_E080000_0_0_0.png" tvg-id="1:0:1:76DB:2C0:600:E080000:0:0:0:" tvg-name="Auto Motor Sport",Auto Motor Sport
+#EXTVLCOPT:program=30427
+http://csab70.ddnsfree.com:8001/1:0:1:76DB:2C0:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31012" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:19:7924:2C6:600:E080000:0:0:0:" tvg-name="CT Sport HD_Preladte",CT Sport HD_Preladte
+#EXTVLCOPT:program=31012
+http://csab70.ddnsfree.com:8001/1:0:19:7924:2C6:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="4070" tvg-logo="http://csab70.ddnsfree.com/picon/digisport1hdro.png" tvg-id="1:0:1:FE6:D:1:E080000:0:0:0:" tvg-name="DIGI Sport 1 HD RO",DIGI Sport 1 HD RO
+#EXTVLCOPT:program=4070
+http://csab70.ddnsfree.com:8001/1:0:1:FE6:D:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="4080" tvg-logo="http://csab70.ddnsfree.com/picon/digisport2hdro.png" tvg-id="1:0:1:FF0:D:1:E080000:0:0:0:" tvg-name="DIGI Sport 2 HD RO",DIGI Sport 2 HD RO
+#EXTVLCOPT:program=4080
+http://csab70.ddnsfree.com:8001/1:0:1:FF0:D:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1036" tvg-logo="http://csab70.ddnsfree.com/picon/digisport3.png" tvg-id="1:0:1:40C:C:1:E080000:0:0:0:" tvg-name="DIGI Sport 3",DIGI Sport 3
+#EXTVLCOPT:program=1036
+http://csab70.ddnsfree.com:8001/1:0:1:40C:C:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1009" tvg-logo="http://csab70.ddnsfree.com/picon/digisport4.png" tvg-id="1:0:1:3F1:1:1:E08318F:0:0:0:" tvg-name="DIGI Sport 4",DIGI Sport 4
+#EXTVLCOPT:program=1009
+http://csab70.ddnsfree.com:8001/1:0:1:3F1:1:1:E08318F:0:0:0:
+#EXTINF:-1 tvg-chno="30903" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_78B7_2C5_600_E080000_0_0_0.png" tvg-id="1:0:1:78B7:2C5:600:E080000:0:0:0:" tvg-name="Extreme Sports Channel",Extreme Sports Channel
+#EXTVLCOPT:program=30903
+http://csab70.ddnsfree.com:8001/1:0:1:78B7:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31322" tvg-logo="http://csab70.ddnsfree.com/picon/fightbox.png" tvg-id="1:0:16:7A5A:2CB:600:E080000:0:0:0:" tvg-name="Fightbox",Fightbox
+#EXTVLCOPT:program=31322
+http://csab70.ddnsfree.com:8001/1:0:16:7A5A:2CB:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31009" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_19_7921_2C6_600_E080000_0_0_0.png" tvg-id="1:0:19:7921:2C6:600:E080000:0:0:0:" tvg-name="Sport 1 HD CZ",Sport 1 HD CZ
+#EXTVLCOPT:program=31009
+http://csab70.ddnsfree.com:8001/1:0:19:7921:2C6:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30505" tvg-logo="http://csab70.ddnsfree.com/picon/sport2hd.png" tvg-id="1:0:19:7729:2C1:600:E080000:0:0:0:" tvg-name="Sport 2 HD",Sport 2 HD
+#EXTVLCOPT:program=30505
+http://csab70.ddnsfree.com:8001/1:0:19:7729:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31401" tvg-logo="http://csab70.ddnsfree.com/picon/sport2hd.png" tvg-id="1:0:19:7AA9:2CC:600:E080000:0:0:0:" tvg-name="Sport 2 HD",Sport 2 HD
+#EXTVLCOPT:program=31401
+http://csab70.ddnsfree.com:8001/1:0:19:7AA9:2CC:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31415" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:19:7AB7:2CC:600:E080000:0:0:0:" tvg-name="Sport 1 HD CZ",Sport 1 HD CZ
+#EXTVLCOPT:program=31415
+http://csab70.ddnsfree.com:8001/1:0:19:7AB7:2CC:600:E080000:0:0:0:
+
+
+#EXTINF:-1 tvg-chno="502" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_1F6_1B_2C0_E080000_0_0_0.png" tvg-id="1:0:1:1F6:1B:2C0:E080000:0:0:0:" tvg-name="Comedy Central Family Hungary",Comedy Central Family Hungary
+#EXTVLCOPT:program=502
+http://csab70.ddnsfree.com:8001/1:0:1:1F6:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="503" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_1F7_1B_2C0_E080000_0_0_0.png" tvg-id="1:0:1:1F7:1B:2C0:E080000:0:0:0:" tvg-name="Comedy Central Hungary",Comedy Central Hungary
+#EXTVLCOPT:program=503
+http://csab70.ddnsfree.com:8001/1:0:1:1F7:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31117" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_798D_2C7_600_E080000_0_0_0.png" tvg-id="1:0:1:798D:2C7:600:E080000:0:0:0:" tvg-name="TV2 Comedy",TV2 Comedy
+#EXTVLCOPT:program=31117
+http://csab70.ddnsfree.com:8001/1:0:1:798D:2C7:600:E080000:0:0:0:
