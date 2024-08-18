@@ -132,9 +132,6 @@ http://csab70.ddnsfree.com:8001/1:0:1:77F3:2C3:600:E080000:0:0:0:
 #EXTINF:-1 tvg-chno="3270" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:1:CC6:4:1:E080000:0:0:0:" tvg-name="Magyar Mozi TV",Magyar Mozi TV
 #EXTVLCOPT:program=3270
 http://csab70.ddnsfree.com:8001/1:0:1:CC6:4:1:E080000:0:0:0:
-#EXTINF:-1 tvg-chno="1031" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:1:407:3:1:E080000:0:0:0:" tvg-name="Max4",Max4
-#EXTVLCOPT:program=1031
-http://csab70.ddnsfree.com:8001/1:0:1:407:3:1:E080000:0:0:0:
 #EXTINF:-1 tvg-chno="31110" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7986_2C7_600_E080000_0_0_0.png" tvg-id="1:0:1:7986:2C7:600:E080000:0:0:0:" tvg-name="Mozi+",Mozi+
 #EXTVLCOPT:program=31110
 http://csab70.ddnsfree.com:8001/1:0:1:7986:2C7:600:E080000:0:0:0:
@@ -313,6 +310,11 @@ http://csab70.ddnsfree.com:8001/1:0:19:7E0:AF2:BB:E080000:0:0:0:
 #EXTINF:-1 tvg-chno="1480" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:19:5C8:4:1:E080000:0:0:0:" tvg-name="MATCH4 HD",MATCH4 HD
 #EXTVLCOPT:program=1480
 http://csab70.ddnsfree.com:8001/1:0:19:5C8:4:1:E080000:0:0:0:
+
+#EXTINF:-1 tvg-chno="1031" tvg-logo="http://csab70.ddnsfree.com/images/default_picon.png" tvg-id="1:0:1:407:3:1:E080000:0:0:0:" tvg-name="Max4",Max4
+#EXTVLCOPT:program=1031
+http://csab70.ddnsfree.com:8001/1:0:1:407:3:1:E080000:0:0:0:
+
 #EXTINF:-1 tvg-chno="30224" tvg-logo="http://csab70.ddnsfree.com/picon/1_0_1_7610_2BE_600_E080000_0_0_0.png" tvg-id="1:0:1:7610:2BE:600:E080000:0:0:0:" tvg-name="Spiler TV",Spiler TV
 #EXTVLCOPT:program=30224
 http://csab70.ddnsfree.com:8001/1:0:1:7610:2BE:600:E080000:0:0:0:
