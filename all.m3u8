@@ -316,6 +316,11 @@ http://csab70.ddns.net:8001/1:0:19:7A50:2CB:600:E080000:0:0:0:
 #EXTINF:-1 tvg-chno="31417" tvg-logo="http://csab70.ddns.net/picon/m4hd.png" tvg-id="1:0:19:7AB9:2CC:600:E080000:0:0:0:" tvg-name="M4 HD",M4 HD
 #EXTVLCOPT:program=31417
 http://csab70.ddns.net:8001/1:0:19:7AB9:2CC:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-chno="3490" tvg-logo="http://csab70.ddns.net/picon/m4sport.png" tvg-id="1:0:1:DA2:C:1:E080000:0:0:0:" tvg-name="M4 Sport",M4 Sport
+#EXTVLCOPT:program=3490
+http://csab70.ddns.net:8001/1:0:1:DA2:C:1:E080000:0:0:0:
+
 #EXTINF:-1 tvg-chno="30216" tvg-logo="http://csab70.ddns.net/picon/1_0_1_7608_2BE_600_E080000_0_0_0.png" tvg-id="1:0:1:7608:2BE:600:E080000:0:0:0:" tvg-name="Duna World / M4 Sport+",Duna World / M4 Sport+
 #EXTVLCOPT:program=30216
 http://csab70.ddns.net:8001/1:0:1:7608:2BE:600:E080000:0:0:0:
