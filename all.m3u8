@@ -2,6 +2,8 @@
 #EXTVLCOPT:http-reconnect=true
 
 # ALAP ########################################################################################################################################################################
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-chno="4040" tvg-logo="http://csab70.ddns.net/picon/m1hd.png" tvg-id="1:0:19:FC8:D:1:E080000:0:0:0:" tvg-name="M1 HD",M1 HD
 #EXTVLCOPT:program=4040
 http://csab70.ddns.net:8001/1:0:19:FC8:D:1:E080000:0:0:0:
@@ -26,12 +28,12 @@ http://csab70.ddns.net:8001/1:0:19:7728:2C1:600:E080000:0:0:0:
 #EXTINF:-1 tvg-chno="30511" tvg-logo="http://csab70.ddns.net/picon/tv2hd.png" tvg-id="1:0:19:772F:2C1:600:E080000:0:0:0:" tvg-name="TV2 HD",TV2 HD
 #EXTVLCOPT:program=30511
 http://csab70.ddns.net:8001/1:0:19:772F:2C1:600:E080000:0:0:0:
-#EXTINF:-1 tvg-chno="30211" tvg-logo="http://csab70.ddns.net/picon/1_0_1_7603_2BE_600_E080000_0_0_0.png" tvg-id="1:0:1:7603:2BE:600:E080000:0:0:0:" tvg-name="ATV",ATV
-#EXTVLCOPT:program=30211
-http://csab70.ddns.net:8001/1:0:1:7603:2BE:600:E080000:0:0:0:
-#EXTINF:-1 tvg-chno="30207" tvg-logo="http://csab70.ddns.net/images/default_picon.png" tvg-id="1:0:1:75FF:2BE:600:E080000:0:0:0:" tvg-name="ATV Extra",ATV Extra
-#EXTVLCOPT:program=30207
-http://csab70.ddns.net:8001/1:0:1:75FF:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31241" tvg-logo="http://csab70.ddns.net/picon/atv.png" tvg-id="1:0:1:7A09:2C8:600:E080000:0:0:0:" tvg-name="ATV",ATV
+#EXTVLCOPT:program=31241
+http://csab70.ddns.net:8001/1:0:1:7A09:2C8:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="31238" tvg-logo="http://csab70.ddns.net/images/default_picon.png" tvg-id="1:0:1:7A06:2C8:600:E080000:0:0:0:" tvg-name="ATV Extra",ATV Extra
+#EXTVLCOPT:program=31238
+http://csab70.ddns.net:8001/1:0:1:7A06:2C8:600:E080000:0:0:0:
 #EXTINF:-1 tvg-chno="30102" tvg-logo="http://csab70.ddns.net/picon/1_0_1_7596_2BD_600_E080000_0_0_0.png" tvg-id="1:0:1:7596:2BD:600:E080000:0:0:0:" tvg-name="Hir TV",Hir TV
 #EXTVLCOPT:program=30102
 http://csab70.ddns.net:8001/1:0:1:7596:2BD:600:E080000:0:0:0:
@@ -2076,5 +2078,6 @@ http://csab70.ddns.net:8001/1:0:2:DA2:2:1:E080000:0:0:0:
 #EXTINF:-1 tvg-chno="3330" tvg-logo="http://csab70.ddns.net/images/default_picon.png" tvg-id="1:0:2:D02:C:1:E080000:0:0:0:" tvg-name="Virgn Radio",Virgn Radio
 #EXTVLCOPT:program=3330
 http://csab70.ddns.net:8001/1:0:2:D02:C:1:E080000:0:0:0:
+
 
 
