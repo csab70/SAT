@@ -98,4 +98,644 @@
 			<location>http://csab70.ddns.net:8001/1:0:1:7602:2BE:600:E080000:0:0:0:</location>
 		</track>
 	</trackList>
+
+	
+	<trackList>
+	<title>MOVIE</title>
+		<track>
+		<title>AMC CE</title>
+		<image>http://csab70.ddns.net/picon/amcce.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7983:2C7:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>AMC HU</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_7981_2C7_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7981:2C7:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Cinemax</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_77F5_2C3_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:77F5:2C3:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Cinemax2</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_78C2_2C5_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78C2:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Cool</title>
+		<image>http://csab70.ddns.net/picon/cool.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78DD:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>CANAL+ Action HD</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7A57:2CB:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Disney Channel</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_77EF_2C3_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:77EF:2C3:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Epic Drama HD</title>
+		<image>http://csab70.ddns.net/picon/epicdramahd.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:11:7DD:AF2:BB:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Film+ HD</title>
+		<image>http://csab70.ddns.net/picon/filmplus.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7A4F:2CB:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Film 4</title>
+		<image>http://csab70.ddns.net/picon/film4.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:CEE:3:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Film Cafe</title>
+		<image>http://csab70.ddns.net/picon/filmcafe.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:75BB:2BD:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Film Mania</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_76CF_2C0_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:76CF:2C0:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Filmbox Basic</title>
+		<image>http://csab70.ddns.net/picon/filmboxbasic.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:16:7AB5:2CC:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>FilmBox (basic) RO</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_77FA_2C3_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:77FA:2C3:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Filmbox Extra HD</title>
+		<image>http://csab70.ddns.net/picon/1_0_19_773B_2C1_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:773B:2C1:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>FilmBox Family</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_75F9_2BE_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>FilmBox Stars INT</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_7609_2BE_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7609:2BE:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>FilmBox Premium</title>
+		<image>http://csab70.ddns.net/picon/1_0_16_772B_2C1_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:16:772B:2C1:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Filmbox Premium HD</title>
+		<image>http://csab70.ddns.net/picon/filmboxpremium.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7A45:2CB:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Galaxy4</title>
+		<image>http://csab70.ddns.net/picon/galaxy4.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:A96:3:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>HBO HU</title>
+		<image>http://csab70.ddns.net/picon/hbohu.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:A64:5:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>HBO HD</title>
+		<image>http://csab70.ddns.net/picon/hbohd.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7E1:AF2:BB:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>HBO2</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_77F1_2C3_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:77F1:2C3:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>HBO 3 HU</title>
+		<image>http://csab70.ddns.net/picon/hbo3hu.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:4C4:4:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Jocky TV</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_75AA_2BD_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:75AA:2BD:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Life TV</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_77F3_2C3_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:77F3:2C3:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Magyar Mozi TV</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:CC6:4:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Markiza HD</title>
+		<image>http://csab70.ddns.net/picon/markizahd.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7AAC:2CA:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Max4</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:407:3:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Mozi+</title>
+		<image>http://csab70.ddns.net/picon/moziplus.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:DAC:4:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Moziklub</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_78B6_2C5_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78B6:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Moziverzum</title>
+		<image>http://csab70.ddns.net/picon/moziverzum.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:45F4:4:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Paramount Network</title>
+		<image>http://csab70.ddns.net/picon/paramountnetwork.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:77B5:2C2:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Prime</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_78C0_2C5_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78C0:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>PRO CINEMA</title>
+		<image>http://csab70.ddns.net/picon/procinema.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:492:7:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>RTL GOLD</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_79F3_2C8_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:79F3:2C8:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>RTL KETTO HD</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7733:2C1:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>RTL Harom HD</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7735:2C1:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>RTL OTTHON</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7ABB:2CC:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Sorozat+</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_79EE_2C8_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:79EE:2C8:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Sorozatklub</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_78B5_2C5_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78B5:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>STORY 4</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_77F4_2C3_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:77F4:2C3:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>SuperTV2</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_78BB_2C5_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78BB:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>TV2Klub</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_78BA_2C5_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78BA:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>TV4</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_7989_2C7_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7989:2C7:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Viasat 2</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78C1:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Viasat3</title>
+		<image>http://csab70.ddns.net/picon/viasat3.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:75A3:2BD:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Viasat6</title>
+		<image>http://csab70.ddns.net/picon/viasat6.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:75A4:2BD:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Viasat Film</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78C6:2C5:600:E080000:0:0:0:</location>
+		</track>
+	</trackList>
+
+
+	<trackList>
+	<title>SPORT</title>
+		<track>
+		<title>M4 Sport HD</title>
+		<image>http://csab70.ddns.net/picon/m4sporthd.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7AB9:2CC:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>M4 Sport</title>
+		<image>http://csab70.ddns.net/picon/m4sport.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:4CE:4:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Duna World/M4 Sport+</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:79A6:2C7:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Arena 4 HD</title>
+		<image>http://csab70.ddns.net/picon/arena4.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7AB1:2CC:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Eurosport 1 HD</title>
+		<image>http://csab70.ddns.net/picon/1_0_19_7DF_AF2_BB_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7DF:AF2:BB:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Eurosport 2 HD</title>
+		<image>http://csab70.ddns.net/picon/1_0_19_7E0_AF2_BB_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7E0:AF2:BB:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>MATCH4 HD</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:5C8:4:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Spiler1 TV</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_7610_2BE_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7610:2BE:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Spiler2 TV</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_75B0_2BD_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:75B0:2BD:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Sport 1 HD</title>
+		<image>http://csab70.ddns.net/picon/1_0_19_7727_2C1_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7727:2C1:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Sport2 HD</title>
+		<image>http://csab70.ddns.net/picon/sport2hd.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:5D2:4:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Arena Sport 1</title>
+		<image>http://csab70.ddns.net/picon/arenasport1.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:16:7AAA:2CC:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Auto Motor Sport</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_76DB_2C0_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:76DB:2C0:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>CT Sport HD</title>
+		<image>http://csab70.ddns.net/picon/ctsporthd.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:2334:AF9:BB:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Extreme Sports Channel</title>
+		<image>http://csab70.ddns.net/picon/extremesportschannel.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7A62:2CB:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>FightBox</title>
+		<image>http://csab70.ddns.net/picon/fightbox.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:16:7A5A:2CB:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Fishing&amp;Hunting</title>
+		<image>http://csab70.ddns.net/picon/fishingandhunting.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:596:C:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Sport 1 HD CZ</title>
+		<image>http://csab70.ddns.net/picon/1_0_19_7921_2C6_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7921:2C6:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Sport 2 HD</title>
+		<image>http://csab70.ddns.net/picon/sport2hd.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7AA9:2CC:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Sport 1 SK HD</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7AB7:2CC:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Eurosport HU</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:4A3:3:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Eurosport 2 HU</title>
+		<image>http://csab70.ddns.net/picon/eurosport2hu.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:A1E:5:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Eurosport 4K</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:1F53:AF8:BB:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Eurosport 4k</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:1F54:AF8:BB:E080000:0:0:0:</location>
+		</track>
+	</trackList>
+
+	<trackList>
+	<title>SCIENCE&amp;REALITY</title>
+		<track>
+		<title>4K-HERiTAGE</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7B:C:A:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Animal Planet</title>
+		<image>http://csab70.ddns.net/picon/animalplanet.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:424:3:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Animal Planet HD Hungarian</title>
+		<image>http://csab70.ddns.net/picon/animalplanethdhungarian.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:A2D:2:5E:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>BBC Earth</title>
+		<image>http://csab70.ddns.net/picon/bbcearth.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:79FF:2C8:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Crime and Investigation</title>
+		<image>http://csab70.ddns.net/picon/crimeandinvestigation.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:BD9:AF3:BB:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>CGTN Documentary HD</title>
+		<image>http://csab70.ddns.net/picon/cgtndocumentary.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7ED:14:46:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Crime and Investigation</title>
+		<image>http://csab70.ddns.net/picon/crimeandinvestigation.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7810:2C3:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>DaVinci Learning</title>
+		<image>http://csab70.ddns.net/picon/davincilearning.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:406:2:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Discovery HU</title>
+		<image>http://csab70.ddns.net/picon/discoveryhu.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:1004:5:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>DocuBox</title>
+		<image>http://csab70.ddns.net/picon/docubox.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7A58:2CB:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>HGTV</title>
+		<image>http://csab70.ddns.net/picon/hgtv.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:D52:2:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>History HD</title>
+		<image>http://csab70.ddns.net/picon/historyhd.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7AAB:2CC:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>ID Investigation Discovery</title>
+		<image>http://csab70.ddns.net/picon/idinvestigationdiscovery.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:A14:5:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Love Nature HD</title>
+		<image>http://csab70.ddns.net/picon/lovenaturehd.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7734:2C1:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Nat Geo HD</title>
+		<image>http://csab70.ddns.net/picon/natgeohd.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7A63:2CB:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Nat Geo Wild</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_77F7_2C3_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:77F7:2C3:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Nat Geo Wild HD</title>
+		<image>http://csab70.ddns.net/picon/natgeowildhd.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7741:2C1:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Ozone TV</title>
+		<image>http://csab70.ddns.net/picon/ozonetv.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:A82:4:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Spektrum</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_77F8_2C3_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:77F8:2C3:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Spektrum SK HD</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:1F4D:AF8:BB:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Travel Channel</title>
+		<image>http://csab70.ddns.net/picon/travelchannel.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:3F8:1:1:E08318F:0:0:0:</location>
+		</track>
+		<track>
+		<title>TLC</title>
+		<image>http://csab70.ddns.net/picon/tlc.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78CF:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Spektrum Home</title>
+		<image>http://csab70.ddns.net/picon/spektrumhome.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:79EB:2C8:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>SuperTV2</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_78BB_2C5_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78BB:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Viasat Explore.</title>
+		<image>http://csab70.ddns.net/picon/viasatexplore.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78CA:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Viasat History</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_7982_2C7_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7982:2C7:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Viasat History HU</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:497:4:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Viasat Nature</title>
+		<image>http://csab70.ddns.net/picon/viasatnature.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:622:3:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>(18+) Eroxxx</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7A59:2CB:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Hustler</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_78C8_2C5_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78C8:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Private TV</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_78BD_2C5_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:78BD:2C5:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>SuperOne</title>
+		<image>http://csab70.ddns.net/picon/superone.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:409:2:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Vixen HD</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7A50:2CB:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Life TV</title>
+		<image>http://csab70.ddns.net/picon/lifetv.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:1018:3:1:E080000:0:0:0:</location>
+		</track>
+	</trackList>
+
+
+	<trackList>
+	<title>MUSIC/HOME/Comedy</title>
+		<track>
+		<title>Dikh TV</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:5F0:3:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Muzsika TV</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_79EF_2C8_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:79EF:2C8:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Life TV</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_77F3_2C3_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:77F3:2C3:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Slager Original</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:16:7A53:2CB:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Slager TV</title>
+		<image>http://csab70.ddns.net/picon/slagertv.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:B22:C:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Zenebutik</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_798E_2C7_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:798E:2C7:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Mezzo</title>
+		<image>http://csab70.ddns.net/picon/mezzo.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:3F0:1:1:E08318F:0:0:0:</location>
+		</track>
+		<track>
+		<title>RTL OTTHON</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:19:7ABB:2CC:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Spektrum Home</title>
+		<image>http://csab70.ddns.net/picon/spektrumhome.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:B77:5:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>TV2 Sef</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_797F_2C7_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:797F:2C7:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>TV Paprika</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_75A0_2BD_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:75A0:2BD:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Comedy Central Hungary</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_1F7_1B_2C0_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:1F7:1B:2C0:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>TV2 Comedy</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_798D_2C7_600_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:798D:2C7:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Mezzo</title>
+		<image>http://csab70.ddns.net/picon/mezzo.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7A61:2CB:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Music Channel</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_401_C_1_E080000_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:401:C:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Slager Original</title>
+		<image>http://csab70.ddns.net/images/default_picon.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:7A53:2CB:600:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>U tv</title>
+		<image>http://csab70.ddns.net/picon/1_0_1_3F3_1_1_E08318F_0_0_0.png</image>
+			<location>http://csab70.ddns.net:8001/1:0:1:3F3:1:1:E08318F:0:0:0:</location>
+		</track>
+	</trackList>
+	
 </playlist>
