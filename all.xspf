@@ -518,7 +518,7 @@
 			<location>http://csab70.ddnsfree.com:8001/1:0:1:79A6:2C7:600:E080000:0:0:0:</location>
 		</track>
 		<track>
-		<title>Arena4 HD</title>
+		<title>Arena 4 HD</title>
 		<image>http://csab70.ddnsfree.com/picon/arena4hd.png</image>
 			<location>http://csab70.ddnsfree.com:8001/1:0:19:7AB1:2CC:600:E080000:0:0:0:</location>
 		</track>
@@ -556,6 +556,11 @@
 		<title>Sport2 HD</title>
 		<image>http://csab70.ddnsfree.com/picon/sport2hd.png</image>
 			<location>http://csab70.ddnsfree.com:8001/1:0:19:5D2:4:1:E080000:0:0:0:</location>
+		</track>
+		<track>
+		<title>Arena 4</title>
+		<image>http://csab70.ddnsfree.com/picon/arena4.png</image>
+			<location>http://csab70.ddnsfree.com:8001/1:0:1:78D5:2C5:600:E080000:0:0:0:</location>
 		</track>
 		<track>
 		<title>Arena Sport 1</title>
@@ -598,8 +603,8 @@
 			<location>http://csab70.ddnsfree.com:8001/1:0:19:7AA9:2CC:600:E080000:0:0:0:</location>
 		</track>
 		<track>
-		<title>Sport 1 HD</title>
-		<image>http://csab70.ddnsfree.com/picon/sport1hd.png</image>
+		<title>Sport 1 SK HD</title>
+		<image>http://csab70.ddnsfree.com/picon/sport1skhd.png</image>
 			<location>http://csab70.ddnsfree.com:8001/1:0:19:7AB7:2CC:600:E080000:0:0:0:</location>
 		</track>
 		<track>
